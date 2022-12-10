@@ -1,7 +1,7 @@
-[![MasterHead](https://www.canva.com/design/DAFUWGBbQyk/Y1vqTGMCpI7UBWIzlb-V1g/watch?utm_content=DAFUWGBbQyk&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)]
+[![MasterHead](https://i.pinimg.com/originals/70/a8/1a/70a81ab80f9ec566e9e914e12ea1fd4c.gif)]
 <h1 align="center">Hi 👋, I'm Vimal Raj</h1>
 <h3 align="center">A EEE student learning Codings</h3>
-(img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/4800/1*ZSVmWGcc1weENb0ShawWxw.gif")
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/4800/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalraj73&label=Profile%20views&color=0e75b6&style=flat" alt="vimalraj73" /> </p>
 
