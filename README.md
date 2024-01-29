@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAFUWGBbQyk/uUSv4LUmOJkDUC3lT0sgLQ/edit?utm_content=DAFUWGBbQyk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![MasterHead](https://www.canva.com/design/DAFUWGBbQyk/8wMzo5sRkRy8rVLWp4TcLg/view?utm_content=DAFUWGBbQyk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 <h1 align="center">Hi 👋, I'm Vimal Raj</h1>
 <h3 align="center">A EEE student learning Codings</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/4800/1*ZSVmWGcc1weENb0ShawWxw.gif">
