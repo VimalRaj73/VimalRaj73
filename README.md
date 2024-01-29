@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/4b/71/2d/4b712d52242275460bfb6568ee9c1531.gif)
+![MasterHead](https://i.pinimg.com/originals/c6/83/ab/c683aba93bea1fa62bd1e5bbb86ecb6d.png)
 <h1 align="center">Hi 👋, I'm Vimal Raj</h1>
 <h3 align="center">A EEE student learning Codings</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/4800/1*ZSVmWGcc1weENb0ShawWxw.gif">
