@@ -1,6 +1,5 @@
-![MasterHead](https://i.pinimg.com/originals/c6/83/ab/c683aba93bea1fa62bd1e5bbb86ecb6d.png)
-<h1 align="center">Hi 👋, I'm Vimal Raj</h1>
-<h3 align="center">An Aspiring Data Scientist</h3>
+<h1 align="left">Hi 👋, I'm Vimal Raj</h1>
+<h3 align="left">An Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/4800/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalraj73&label=Profile%20views&color=0e75b6&style=flat" alt="vimalraj73" /> </p>
