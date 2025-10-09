@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vimalrajravikumar@gmail.com**
 
-- ⚡ Fun fact **The first computer virus was a Creeper.**
+- ⚡ Fun fact **An AI-generated text prediction model was trained to write a Harry Potter novel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
