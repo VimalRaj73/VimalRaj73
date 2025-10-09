@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vimalrajravikumar@gmail.com**
 
-- ⚡ Fun fact **An AI-generated text prediction model was trained to write a Harry Potter novel.**
+- ⚡ Fun fact **Cleaning data is the hardest part.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
