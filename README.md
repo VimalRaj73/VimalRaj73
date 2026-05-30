@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science and AI**
 
-- 📫 How to reach me **vimalrajravikumar@gmail.com**
+- 📫 How to reach me **vimal.apexx@gmail.com**
 
 - ⚡ Fun fact **Cleaning data is the hardest part.**
 
