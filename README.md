@@ -23,3 +23,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,html,css,sklearn,docker,git,github,anaconda,vscode,notion)](https://skillicons.dev)
 
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+</p>
+
