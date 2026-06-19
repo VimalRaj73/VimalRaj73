@@ -21,7 +21,7 @@
 
 <h3 align="left">Skills & Techstack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,html,css,sklearn,docker,git,github,anaconda,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,sklearn,html,css,docker,git,github,anaconda,vscode,notion)](https://skillicons.dev)
 
 
 
