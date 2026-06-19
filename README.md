@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/vimal_jue" target="blank"><img src="https://img.shields.io/twitter/follow/vimal_jue?logo=twitter&style=for-the-badge" alt="vimal_jue" /></a> </p>
 
-- 🌌 _Traversing the universe of Data Science & AI_
+- 🌌 Traversing the universe of Data Science & AI
 
-- 🤖 _Building models that predict your next move_
+- 🤖 Building models that predict your next move
 
-- - ⚡ _Fun fact **Still searching for the story hidden in the data**_
+- ⚡ Fun fact **Still searching for the story hidden in the data**
 
-- 📫 _Reach me at: **vimal.apexx@gmail.com**_
+- 📫 Reach me at: **vimal.apexx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
