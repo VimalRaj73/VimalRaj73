@@ -1,6 +1,6 @@
 <h1 align="left">Yep, This is Vimal!! ☁️</h1>
 <h3 align="left">An Aspiring Data Scientist</h3>
-<img align="right" alt="Coding" width="320" src="https://miro.medium.com/max/4800/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align="right" alt="Coding" width="350" src="https://miro.medium.com/max/4800/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalraj73&label=Profile%20views&color=0e75b6&style=flat" alt="vimalraj73" /> </p>
 
@@ -14,9 +14,9 @@
 
 <h3 align="left">Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,sklearn,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,sklearn,html,css,docker,git,github)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,anaconda,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,vscode,notion)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
