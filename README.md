@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact: **Still searching for the story hidden in the data**
 
-- 📫 Reach me at: **vimal.apexx@gmail.com**
+- 🪐 Reach me at: **vimal.apexx@gmail.com**
 
 <h3 align="left">Tech Stack:</h3>
 
