@@ -15,6 +15,7 @@
 <h3 align="left">Tech Stack:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,sklearn,html,css)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,anaconda,vscode,notion)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
