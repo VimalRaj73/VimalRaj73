@@ -19,7 +19,7 @@
 <a href="https://instagram.com/megatra.jue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="megatra.jue" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Skills & Techstack:</h3>
+<h3 align="left">Tech Stack:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,sklearn,html,css,docker,git,github,anaconda,vscode,notion)](https://skillicons.dev)
 
