@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋, I'm Vimal Raj</h1>
+___
 <h3 align="left">An Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/4800/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
