@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalraj73&label=Profile%20views&color=0e75b6&style=flat" alt="vimalraj73" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vimal_jue" target="blank"><img src="https://img.shields.io/twitter/follow/vimal_jue?logo=twitter&style=for-the-badge" alt="vimal_jue" /></a> </p>
-
 - 🌌 Traversing the universe of Data Science & AI
 
 - 🤖 Building models that predict your next move
