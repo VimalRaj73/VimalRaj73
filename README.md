@@ -10,7 +10,7 @@
 
 - 🤖 Building models that predict your next move
 
-- ⚡ Fun fact **Still searching for the story hidden in the data**
+- ⚡ Fun fact: **Still searching for the story hidden in the data**
 
 - 📫 Reach me at: **vimal.apexx@gmail.com**
 
