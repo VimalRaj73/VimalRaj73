@@ -1,4 +1,4 @@
-<h1 align="left">Yep, This is Vimal!! 👨‍🚀</h1>
+<h1 align="left">Yep, This is Vimal!!✨</h1>
 <h3 align="left">An Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/max/4800/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
