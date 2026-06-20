@@ -1,4 +1,4 @@
-![435fasrf453](https://wallpaperaccess.com/full/22801798.gif)
+![Banner](https://www.codedex.io/images/sql/sqlbanner.gif)
 
 <h1 align="left">Yep, This is Vimal!!✨</h1>
 <h3 align="left">An Aspiring Data Scientist</h3>
