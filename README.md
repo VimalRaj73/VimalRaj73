@@ -17,6 +17,5 @@
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,sklearn,html,css,docker)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,anaconda,vscode,notion)](https://skillicons.dev)
-
 #
 
