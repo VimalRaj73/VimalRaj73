@@ -4,8 +4,6 @@
 <h3 align="left">An Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/D_lanvlgizMAAAAj/javier-guerrero-mew-pokemon-nintendo-pixel.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalraj73&label=Profile%20views&color=0e75b6&style=flat" alt="vimalraj73" /> </p>
-
 - 🌌 Traversing the universe of Data Science & AI
 
 - 🚀 Building models that predict your next move
