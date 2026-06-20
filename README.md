@@ -1,4 +1,4 @@
-![933fd79795eb9](https://github.com/user-attachments/assets/b78eb541-830d-483e-aa67-d2153e9ea25f)
+![933fd79795eb9](https://i.pinimg.com/736x/77/83/cd/7783cdb8e828b8f5e25a4236e1c1ed6a.jpg)
 
 <h1 align="left">About Vimal!!✨</h1>
 <h3 align="left">An Aspiring Data Scientist</h3>
