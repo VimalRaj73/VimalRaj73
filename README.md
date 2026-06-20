@@ -1,6 +1,6 @@
 ![933fd79795eb9](https://github.com/user-attachments/assets/b78eb541-830d-483e-aa67-d2153e9ea25f)
 
-<h1 align="left">Yep, This is Vimal!!✨</h1>
+<h1 align="left">About Vimal!!✨</h1>
 <h3 align="left">An Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/D_lanvlgizMAAAAj/javier-guerrero-mew-pokemon-nintendo-pixel.gif">
 
