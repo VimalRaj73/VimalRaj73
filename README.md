@@ -2,7 +2,7 @@
 
 <h1 align="left">Yep, This is Vimal!!✨</h1>
 <h3 align="left">An Aspiring Data Scientist</h3>
-<img align="right" alt="Coding" width="350" src="https://i.gifer.com/4OKl.gif">
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/D_lanvlgizMAAAAj/javier-guerrero-mew-pokemon-nintendo-pixel.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalraj73&label=Profile%20views&color=0e75b6&style=flat" alt="vimalraj73" /> </p>
 
